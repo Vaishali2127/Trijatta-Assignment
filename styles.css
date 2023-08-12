@@ -1,0 +1,18 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.stepper-badge {
+  height: 48px;
+  width: 48px;
+}
+
+.tiny-text {
+  font-size: 14px;
+}
+
+.dashed {
+  border-top: 5px dashed #888;
+}
